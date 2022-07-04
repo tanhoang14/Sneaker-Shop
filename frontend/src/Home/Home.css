@@ -1,0 +1,10 @@
+.title{
+    position: absolute;
+    color:white;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    padding-bottom: 40px;
+    left: 35%;
+    font-size: 40px;
+}

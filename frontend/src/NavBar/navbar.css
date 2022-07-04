@@ -1,0 +1,15 @@
+.Navbar{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+.Navbar >* {
+    margin-left: 2rem;
+    color: #FFB619;
+    text-decoration: none;
+    transition: 200ms ease-in-out;
+}
+.Navbar >*:hover{
+    color:#BBE1FA;
+}
